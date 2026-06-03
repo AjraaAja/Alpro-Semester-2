@@ -1,0 +1,5 @@
+Ndepan = input("masukkan nama depan: ")
+Nbelakang = input("masukkan nama belakang: ")
+Ntengah = input("masukkan nama tengah: ")
+print ("Terima kasih")
+print ("Nama lengkap kamu adalah", Ndepan, Ntengah, Nbelakang,)

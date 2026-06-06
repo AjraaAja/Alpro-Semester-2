@@ -1,0 +1,4 @@
+print (8 / 2)
+print (8 / 2.0)
+print (8.0 / 2)
+print (8.0 / 2.0)
